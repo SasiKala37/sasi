@@ -1,0 +1,9 @@
+import java.util.*;
+public class sample
+{
+   public static void main(String args[])
+   {
+	int c=34+3;
+        System.out.prntln(c);
+   }
+}
